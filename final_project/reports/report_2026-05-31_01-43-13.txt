@@ -1,0 +1,7 @@
+PASSWORD SECURITY REPORT
+------------------------
+Strength : Medium
+Entropy  : 72.1 bits
+Issues Found:
+- Add uppercase letters
+- Add special characters
